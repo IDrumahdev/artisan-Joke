@@ -1,6 +1,6 @@
 <?php
 
-namespace Rumahdevid\Commands;
+namespace Rumahdevid\ArtisanJoke\Commands;
 
 use GuzzleHttp\Client;
 use Illuminate\Console\Command;
