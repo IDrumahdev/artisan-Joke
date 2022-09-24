@@ -1,6 +1,6 @@
 <?php
 
-namespace Rumahdev\Larajoke\Commands;
+namespace Rumahdev\Commands;
 
 use Illuminate\Support\ServiceProvider;
 
@@ -14,7 +14,7 @@ class ArtisanJokeServiceProvider extends ServiceProvider
     public function register()
     {
         $this->app->singleton('command.rumahdevid.artisan-joke', function($app) {
-            return $app['Rumahdevid\ArtisanJoke\Commands\JokeCommand'];
+            return $app['Rumahdevid\Commands\JokeCommand'];
         });
 
         $this->commands('command.rumahdevid.artisan-joke');

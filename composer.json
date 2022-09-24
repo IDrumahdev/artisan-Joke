@@ -7,13 +7,13 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Rumahdevid\\ArtisanJoke\\": "src/"
+            "Rumahdevid\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Rumahdevid\\ArtisanJoke\\Commands\\ArtisanJokeServiceProvider"
+                "Rumahdevid\\Commands\\ArtisanJokeServiceProvider"
             ]
         }
     },
