@@ -1,9 +1,6 @@
 {
     "name": "rumahdevid/artisan-joke",
     "description": "ini adalah repository belajar buat package dari Laracademy.",
-    "require": {
-        "guzzlehttp/guzzle": "7.5.x-dev"
-    },
     "license": "MIT",
     "autoload": {
         "psr-4": {
