@@ -10,7 +10,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Rumahdevid\\artisan-joke\\src\\ArtisanJokeServiceProvider"
+                "rumahdevid\\artisan-joke\\src\\ArtisanJokeServiceProvider"
             ]
         }
     },
