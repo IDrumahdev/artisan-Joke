@@ -7,13 +7,6 @@
             "Rumahdevid\\": "src/"
         }
     },
-    "extra": {
-        "laravel": {
-            "providers": [
-                "ArtisanJokeServiceProvider"
-            ]
-        }
-    },
     "authors": [
         {
             "name": "ibnudirsan",
