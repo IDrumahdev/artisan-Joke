@@ -1,6 +1,6 @@
 <?php
 
-namespace Rumahdevid\ArtisanJoke\Commands;
+namespace Rumahdevid\ArtisanJoke;
 
 use Illuminate\Support\ServiceProvider;
 
